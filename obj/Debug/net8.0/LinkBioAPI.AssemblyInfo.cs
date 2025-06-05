@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkBioAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15e56b0a1cb9a9ca95ae5e2c7274592a183d657c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkBioAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkBioAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
